@@ -1,13 +1,9 @@
 ### Hey, I'm Khilseith!
 #### Look at some neat stats o' mine!
 
-<a href="https://github.com/Khilseith">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Khilseith&show_icons=true&theme=dark" />
-</a>
+![Khilseith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khilseith&show_icons=true&theme=dark)
 
-<a href="https://github.com/Khilseith">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khilseith&theme=dark" />
-</a>
+[![Khilseith's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khilseith&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Khilseith/Khilseith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
